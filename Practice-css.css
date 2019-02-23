@@ -1,0 +1,32 @@
+h3{
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+}
+
+td{
+  height: 250px;
+  width: 90px;
+  background-color: black;
+  border: 2px solid white;
+}
+
+.art{
+  margin: auto;
+}
+
+#one{
+  background-color: #C02032;
+  margin-right: 100px;
+}
+#two{
+  background-color: #32417E;
+}
+#three{
+  background-color: #CB4857;
+}
+#four{
+  background-color: #576395;
+}
+#five{
+  background-color: #FFFF26;
+}
